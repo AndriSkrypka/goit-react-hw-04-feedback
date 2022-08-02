@@ -1,0 +1,16 @@
+.list {
+    padding: 0;
+    margin-left: 15px;
+    width: 300px;
+}
+
+.item {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.button {
+    padding: 10px 15px;
+    width: 200px;
+    cursor: pointer;
+}
